@@ -6,7 +6,7 @@
 -
   type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  ''                  # Fill with your Linkedin homepage
+  url:  'https://www.linkedin.com/in/%ED%98%84%EC%9A%B1-%EC%B5%9C-3bb62b218/'                  # Fill with your Linkedin homepage
 -
   type: email
   icon: 'fas fa-envelope'
